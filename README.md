@@ -6,8 +6,8 @@
 ### Uh... what ?
 
 |   Birthday   | Gender | Favorite color | Favorite food | Pineapple on pizza |
-|:------------:|:------:|:--------------:|:-------------:|--------------------|
-| 10 September |  Male  |       Red      |  French fries | :<ul><li>- [x] yes</li><li>- [ ] no</li></ul>: |
+|:------------:|:------:|:--------------:|:-------------:|:--------------------:|
+| 10 September |  Male  |       Red      |  French fries | <ul><li>- [x] yes</li><li>- [ ] no</li></ul> |
 
 ### Hobbies :
 
