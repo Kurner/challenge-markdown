@@ -1,5 +1,5 @@
 # LIBERT Nicolas
-### *Pourquoi faire aujourd'hui, ce que l'on peut faire demain ?*
+#### *Pourquoi faire aujourd'hui, ce que l'on peut faire demain ?*
 
 ![](https://media-exp1.licdn.com/dms/image/C4D03AQG-DmkokpG--A/profile-displayphoto-shrink_200_200/0/1557221380943?e=1649289600&v=beta&t=_psLHvs7P9kfv6KFR7CqvTo9MdAwikm3kqaTXeSvUpQ)
 
@@ -7,7 +7,7 @@
 
 |   Birthday   | Gender | Favorite color | Favorite food | Pineapple on pizza |
 |:------------:|:------:|:--------------:|:-------------:|--------------------|
-| 10 September |  Male  |       Red      |  French fries | - [ ]              |
+| 10 September |  Male  |       Red      |  French fries | <ul><li>- [x] yes</li><li>- [ ] no</li></ul> |
 
 ### Hobbies :
 
@@ -26,14 +26,15 @@
 * Swimming
 * Kurzgesagt videos
 
-###You can always count on me when :
+### You can always count on me when :
 
 - You are struggling in a project
 - You are in a bad mood
 - You just want to talk (but not necesserily getting a response, just empty your bag)
 - You check for advice
+- You need a mate to play games
 
-###A funny story :
+### A funny story :
 
 Wanna hear a joke ? ... My life ! AH ! Yeah, it's lame but I can't remember something funny about my life.
 
@@ -41,4 +42,4 @@ Wanna hear a joke ? ... My life ! AH ! Yeah, it's lame but I can't remember some
 
 No idea of a fun story to share.
 
-[previousStudent](https://github.com/chris-delecluse/challenge-markdown.git) || **NICOLAS LIBERT** || [nextStudent]()
+[previous](https://github.com/chris-delecluse/challenge-markdown.git) || **NICOLAS LIBERT** || [next]()
