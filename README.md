@@ -40,6 +40,6 @@ Wanna hear a joke ? ... My life ! AH ! Yeah, it's lame but I can't remember some
 
 ##### tl;DR 
 
-No idea of a fun story to share.
+No idea of a fun story to share...
 
-[previous](https://github.com/chris-delecluse/challenge-markdown.git) || **NICOLAS LIBERT** || [next](https://github.com/philouLeF/markdownSolo.git)
+[previous](https://github.com/chris-delecluse/challenge-markdown.git) || **NICOLAS LIBERT** || [next](https://github.com/philouLeF/challenge-markdown.git)
