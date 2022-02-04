@@ -9,7 +9,7 @@
 |:------------:|:------:|:--------------:|:-------------:|:--------------------:|
 | 10 September |  Male  |       Red      |  French fries | <ul><li>- [x] yes</li><li>- [ ] no</li></ul> |
 
-### Hobbies :
+### <ins>Hobbies :</ins>
 
 * Video games
      - World of Warcraft
@@ -26,7 +26,7 @@
 * Swimming
 * Kurzgesagt videos
 
-### You can always count on me when :
+### <ins>You can always count on me when :</ins>
 
 - You are struggling in a project
 - You are in a bad mood
@@ -34,7 +34,7 @@
 - You check for advice
 - You need a mate to play games
 
-### A funny story :
+### <ins>A funny story :</ins>
 
 Wanna hear a joke ? ... My life ! AH ! Yeah, it's lame but I can't remember something funny about my life.
 
@@ -42,4 +42,4 @@ Wanna hear a joke ? ... My life ! AH ! Yeah, it's lame but I can't remember some
 
 No idea of a fun story to share.
 
-[previous](https://github.com/chris-delecluse/challenge-markdown.git) || **NICOLAS LIBERT** || [next]()
+[previous](https://github.com/chris-delecluse/challenge-markdown.git) || **NICOLAS LIBERT** || [next](https://github.com/philouLeF/markdownSolo.git)
